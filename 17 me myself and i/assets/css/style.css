@@ -1,0 +1,60 @@
+nav{
+    background: #1d1d1b;
+    height:50px;
+}
+nav p{
+    float: left;
+    height:17,5px;
+    line-height: 17,5px;
+    border: 2px solid #e30613;
+    margin: 10px;
+    padding: 5px;
+    background: white;
+}
+img{
+    width: 75%;
+}
+aside{
+    float: left;
+    width: 25%;
+}
+section{
+    height: 500px;
+}
+main h2{
+    margin-bottom: 2px;
+}
+main p{
+    margin-top: 0px;
+}
+body{
+    background: #b2b2b2;
+}
+footer{
+    text-align: center;
+    background: #1d1d1b;
+    clear: left;
+}
+footer p{
+    color: white;
+}
+table{
+    border: 7.5px solid gray;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+th{
+    border: 2px solid #b22222;
+    background:#b22222;
+    color:white;
+    height: 40px;
+}
+td{
+    border: 2px solid black;
+    width: 150px;
+    text-align: center;
+    padding: 5px;
+    height: 5px;
+}
